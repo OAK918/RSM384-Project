@@ -1,4 +1,3 @@
-savant_data (13)
 pitches,player_id,player_name,game_date,game_pk,total_pitches,pitch_percent,ba,iso,babip,slg,woba,xwoba,xba,hits,abs,launch_speed,launch_angle,spin_rate,velocity,effective_speed,whiffs,swings,takes,eff_min_vel,release_extension,pos3_int_start_distance,pos4_int_start_distance,pos5_int_start_distance,pos6_int_start_distance,pos7_int_start_distance,pos8_int_start_distance,pos9_int_start_distance,pitcher_run_exp,run_exp,bat_speed,swing_length
 8,681676,"Fernandez, Ryan",2024-05-19,745179,30,26.7,1,3,,4,2.05,1.56,0.769,1,1,106.8,37,2105,94.7,95.67,0,4,4,1,6.78,99,147,126,154,300,321,307,-1.9,1.9,74.314835,7.3911525
 4,608723,"Voth, Austin",2024-05-24,744853,20,20,1,3,,4,2.05,0.744,0.397,1,1,99.4,31,2364,89.2,89.27,1,3,1,0.09999999999999430,6.28,126,147,129,151,292,315,302,-1,1,70.63275,7.698956667
