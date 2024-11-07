@@ -1,4 +1,3 @@
-savant_data (5)
 pitches,player_id,player_name,game_date,game_pk,total_pitches,pitch_percent,ba,iso,babip,slg,woba,xwoba,xba,hits,abs,launch_speed,launch_angle,spin_rate,velocity,effective_speed,whiffs,swings,takes,eff_min_vel,release_extension,pos3_int_start_distance,pos4_int_start_distance,pos5_int_start_distance,pos6_int_start_distance,pos7_int_start_distance,pos8_int_start_distance,pos9_int_start_distance,pitcher_run_exp,run_exp,bat_speed,swing_length
 1,673929,"Leasure, Jordan",2024-07-10,746772,10,10,1,3,,4,2.05,0.955,0.497,1,1,101.1,33,2848,77.6,78,0,1,0,0.4000000000000060,6.7,129,148,127,154,299,314,298,-1,1,83.41874,7.70946
 6,601713,"Pivetta, Nick",2024-08-20,746349,84,7.1,1,3,,4,2.05,1.117,0.769,1,1,106.5,20,2819,80.1,79.88,0,1,5,-0.09999999999999430,6.48,112,145,127,149,290,326,285,-2.2,2.2,77.57205,7.84777
