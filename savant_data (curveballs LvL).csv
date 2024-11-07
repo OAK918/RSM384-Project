@@ -1,4 +1,3 @@
-savant_data (4)
 pitches,player_id,player_name,game_date,game_pk,total_pitches,pitch_percent,ba,iso,babip,slg,woba,xwoba,xba,hits,abs,launch_speed,launch_angle,spin_rate,velocity,effective_speed,whiffs,swings,takes,eff_min_vel,release_extension,pos3_int_start_distance,pos4_int_start_distance,pos5_int_start_distance,pos6_int_start_distance,pos7_int_start_distance,pos8_int_start_distance,pos9_int_start_distance,pitcher_run_exp,run_exp,bat_speed,swing_length
 3,592767,"Smyly, Drew",2024-04-17,747212,11,27.3,1,3,,4,2.05,0.724,0.371,1,1,104.6,40,2277,79.9,79.27,0,1,2,-0.6000000000000090,5.8,130,149,107,154,282,326,315,-1,1,74.78979,8.2735
 3,672282,"Detmers, Reid",2024-05-04,746644,95,3.2,1,3,,4,2.05,1.475,0.743,1,1,103.5,34,2581,76.3,75.53,0,1,2,-0.7999999999999970,5.93,118,149,126,155,291,328,304,-3.4,3.4,71.33825,7.59347
