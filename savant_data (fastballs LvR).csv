@@ -1,4 +1,3 @@
-savant_data (11)
 pitches,player_id,player_name,game_date,game_pk,total_pitches,pitch_percent,ba,iso,babip,slg,woba,xwoba,xba,hits,abs,launch_speed,launch_angle,spin_rate,velocity,effective_speed,whiffs,swings,takes,eff_min_vel,release_extension,pos3_int_start_distance,pos4_int_start_distance,pos5_int_start_distance,pos6_int_start_distance,pos7_int_start_distance,pos8_int_start_distance,pos9_int_start_distance,pitcher_run_exp,run_exp,bat_speed,swing_length
 2,607455,"Banda, Anthony",2024-08-11,746114,16,12.5,1,3,,4,2.05,1.649,0.831,1,1,105,33,2151,96.5,96.65,0,1,1,0.20000000000000300,6.2,100,153,123,146,308,324,294,-1.6,1.6,78.29767,7.97671
 10,573124,"Rogers, Taylor",2024-08-14,745301,27,37,1,3,,4,2.05,1.87,0.94,1,1,106.2,26,2062,92.8,91.92,0,4,6,-0.8999999999999920,5.71,105,153,124,147,304,323,293,-1.8,1.8,70.6082,6.8755675
